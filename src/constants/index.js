@@ -37,7 +37,7 @@ export const products = [
     },
     {
         imgURL: shoe5,
-        name: "Nike Dunks Low",
+        name: "K-Swiss Mids",
         price: "Rs.5999/-",
     },
     {
@@ -47,7 +47,7 @@ export const products = [
     },
     {
         imgURL: shoe7,
-        name: "Nike UNC's",
+        name: "New Balance UNC's",
         price: "Rs.7999/-",
     },
 ];
@@ -73,14 +73,14 @@ export const services = [
 export const reviews = [
     {
         imgURL: customer1,
-        customerName: 'Morich Brown',
-        rating: 4.5,
+        customerName: 'Travis Rott',
+        rating: 4.2,
         feedback: "The attention to detail and the quality of the product exceeded my expectations. Highly recommended!"
     },
     {
         imgURL: customer2,
         customerName: 'Lota Mongeskar',
-        rating: 4.5,
+        rating: 4.7,
         feedback: "The product not only met but exceeded my expectations. I'll definitely be a returning customer!"
     }
 ];
@@ -112,7 +112,7 @@ export const footerLinks = [
         title: "Get in touch",
         links: [
             { name: "customer@nike.com", link: "mailto:customer@nike.com" },
-            { name: "+92554862354", link: "tel:+92554862354" },
+            { name: "+91-784862354", link: "tel:+91-784862354" },
         ],
     },
 ];
